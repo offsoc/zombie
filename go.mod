@@ -29,8 +29,8 @@ require (
 	github.com/streadway/amqp v1.1.0
 	github.com/vbauerster/mpb/v8 v8.7.2
 	go.mongodb.org/mongo-driver v1.12.0
-	golang.org/x/crypto v0.19.0
-	golang.org/x/net v0.21.0
+	golang.org/x/crypto v0.36.0
+	golang.org/x/net v0.38.0
 	sigs.k8s.io/yaml v1.4.0
 )
 
